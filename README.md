@@ -22,12 +22,6 @@ A NodeMCU can be used for the same purpose and also can be used as an on board c
 
 You can buy this module from robu.in - ESP8266 NodeMCU CP2102 Board [Make Sure the module has a CP2102 / FTDI Chip for USB Flashing]
 
-Our Module looks like this -
-
-
-![WhatsApp Image 2022-05-24 at 11 23 48 AM (1)](https://user-images.githubusercontent.com/49754981/169959952-cfdc4ce9-9a6e-4afb-afee-04782899fd5c.jpeg)
-
-
 You can flash the ESP8266 with "firmware_esp_arducopter" or "firmware_esp_px4" according to what firmware you are working on.
 
 Flashing Instructions : 
@@ -40,6 +34,11 @@ Flashing Instructions :
 https://github.com/nodemcu/nodemcu-flasher/raw/master/Win64/Release/ESP8266Flasher.exe
 
 3. Connect the module to CP2102 USB 2.0 to TTL UART Serial convertor Module. Wire it up in the following manner - 
+
+Our Module looks like this -
+
+
+![WhatsApp Image 2022-05-24 at 11 23 48 AM (1)](https://user-images.githubusercontent.com/49754981/169959952-cfdc4ce9-9a6e-4afb-afee-04782899fd5c.jpeg)
 
 ESP8266           Serial Converter Module
 
